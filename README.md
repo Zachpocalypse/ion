@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/redox-os/ion)
+
 # Introduction
 
 Ion is a modern system shell that features a simple, yet powerful, syntax. It is written entirely
